@@ -12,7 +12,7 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 - Pronouns: She/her<br>
 - Age: 35<br>
 - Location: Brooklyn, NY (nomad-type, so always open to relocation)<br>
-- My favorite emoji:<span>😅</span><br>
+- My favorite emoji: <span>😅</span><br>
 - Dream job: ~~Panda snuggler~~ Remote coding job that lets me be a nomad.
 
 - 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I don't know everything JS can do, but I have a solid understanding of how it works in general.
