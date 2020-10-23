@@ -17,6 +17,7 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 - Dream job: ~~Panda snuggler~~ Remote coding job that lets me be a nomad.
 
 - 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I'm still learning too, so I don't know everything JS can do, but I have a solid understanding of how it works in general.
+     Teach me about: If you have any good tips on how to solve problems with recursion, please let me know! I understand how it works, but implementing it is proving quite difficult.
 
 - 📫 How to reach me: alicetchang // gmail.com
 
