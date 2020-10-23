@@ -11,8 +11,8 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 <h3>Facts:</h3>
 - Pronouns: She/her<br>
 - Current Location: Brooklyn, NY (nomad-type, so always open to relocation)<br>
-- Previous locations: SF; Seattle; Irvine, CA
-- College: BA in linguistics from UC Davis
+- Previous locations: SF; Seattle; Irvine, CA<br>
+- College: BA in linguistics from UC Davis<br>
 - My favorite emoji: <span>😅</span><br>
 - Dream job: ~~Panda snuggler~~ Remote coding job that lets me be a nomad.
 
