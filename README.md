@@ -1,6 +1,6 @@
 <h2>A little about me...</h2>
 <h3>Currently</h3>
-I'm Alice, a web dev student at Lambda School, learning JS, React, Redux, Node and a little bit of Python. I've just finished the first half of React and will be studying advanced React and Redux for November.
+I'm Alice, a web dev student at **Lambda School**, learning JS, React, Redux, Node and a little bit of Python. I've just finished the first half of React and will be studying advanced React and Redux for November.
 
 My pet **side project** at the moment is a Pomodoro-type timer to remind me to commit to git more often. I'm also adding a snooze feature so I can finish wrapping up what I'm doing and not forget to reset the timer.
 
