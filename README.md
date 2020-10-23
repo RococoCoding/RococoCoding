@@ -16,7 +16,7 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 - My favorite emoji: <span>😅</span><br>
 - Dream job: ~~Panda snuggler~~ Remote coding job that lets me be a nomad.
 
-- 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I don't know everything JS can do, but I have a solid understanding of how it works in general.
+- 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I'm still learning too, so I don't know everything JS can do, but I have a solid understanding of how it works in general.
 
 - 📫 How to reach me: alicetchang // gmail.com
 
