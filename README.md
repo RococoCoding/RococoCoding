@@ -11,7 +11,7 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 <h3>Facts:</h3>
 <p>- Pronouns: She/her</p>
 <p>- Age: 35</p>
-<p>- Location: Brooklyn, NY (nomad-type, so always open to relocation)</p>
+<p>- Location: Brooklyn, NY</p>
 <p>- My favorite emoji: 😅</p>
 <p>- Dream job: ~~Panda snuggler~~ Remote coding job that lets me be a nomad.</p>
 
