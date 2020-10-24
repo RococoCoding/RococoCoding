@@ -17,7 +17,7 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 
 - 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I don't know everything JS can do, but I have a solid understanding of how it works in general.
 
-- 📫 How to reach me: alicetchang // gmail.com
+- 📫 How to reach me: alicetchang // gmail
 
 - Past Projects: 
  [Stacks](https://rocococoding.github.io/stacks/): A library app using vanilla js with search, filter, sort and local save. Built a month or two into learning JS.
