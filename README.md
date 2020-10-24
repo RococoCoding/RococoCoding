@@ -10,11 +10,11 @@ I've always been a computer nerd, but never really did much coding beyond a comp
 
 
 ###Facts:
-- Pronouns: She/her<br>
-- Current Location: Brooklyn, NY<br>
-- Previous locations: SF; Seattle; Irvine, CA<br>
-- College: BA in linguistics from UC Davis<br>
-- My favorite emoji: <span>😅</span><br>
+- Pronouns: She/her
+- Current Location: Brooklyn, NY
+- Previous locations: SF; Seattle; Irvine, CA
+- College: BA in linguistics from UC Davis
+- My favorite emoji: 😅
 - Dream job: ~~Panda snuggler~~ Remote coding job that lets me be a nomad.
 
 - 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I'm still learning too, so I don't know everything JS can do, but I have a solid understanding of how it works in general.
