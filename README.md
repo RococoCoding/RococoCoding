@@ -1,23 +1,20 @@
 <h2>A little about me...</h2>
 <h3>Currently</h3>
-<p>I'm Alice, a web dev student at Lambda School learning JS, React, Redux, Node and a little bit of Python. I've just finished the first half of React and will be studying advanced React and Redux for November.</p>
-
-<p>My pet side project at the moment is a Pomodoro-type timer to remind me to commit to git more often. I'm also adding a snooze feature so I can finish wrapping up what I'm doing and not forget to reset the timer.</p>
-
-<h3>Why coding?</h3>
-I've always been a computer nerd, but never really did much coding beyond a computer applications course in high school. I had been feeling a bit restless the past few years, which resulted in my taking some time off to go to Maine to learn how to build a wooden rowboat??? I didn't know anything about wood or boats or tools, but I'm the kind of person who enjoys diving into new things. What I realized from that experience was that I wanted to make things, but also that I would very, very much wanted to keep all my fingers. Thus, my renewed interest in coding. The timing seemed right when the pandemic hit and it seemed like a pretty good idea to hole myself up in front of a computer for a few months. I was the kid who did logic puzzles for fun, so I'm enjoying it a lot! I love solving problems so I get really in debugging and I love being able to make functional apps that people can use and interact with. 
-
+<p>I'm Alice, a new developer who knows JS, React, Redux, Node, Express and basic Python. I've just graduated from Lambda School, a 6-month intensive coding bootcamp. I'm looking for fully remote roles as a full-stack web dev.
+ 
+<h3>Hire Me!</h3>
+<p>I'm reflective, so I'm always looking for lessons to learn and ways to improve so I can be better in the future.
+<p>I love to help others and share knowledge. I've mentored other students while in school and always try my best to uplift my teammates.
+<p>I'm a creative problem solver. Recently while integrating DocuSign into the Family Promise intake process [frontend][https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a] [backend](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-be-a), we ran into an issue with DocuSign not accepting cross-origin requests. When we asked the techncial staff at school, we were told the solution, creating a custom CORS gateway, was going to be way above our capabilities. Rather than give up, we came up with a solution where we sent the redirect URL in the response from the backend and had the frontend load that URL. No more CORS issues!
 
 <h3>Facts:</h3>
 <p>- Pronouns: She/her</p>
-<p>- Age: 35</p>
-<p>- Location: Brooklyn, NY</p>
+<p>- Age: When I was a child, we had a very fancy electric typewriter before printers became a thing.</p>
+<p>- Location: Brooklyn, NY, but willing to relocate anywhere cold. (Bonus points if it's in Finland!)</p>
 <p>- My favorite emoji: 😅</p>
-<p>- Dream job: Remote coding job that lets me be a nomad.</p>
+<p>- The name: One of my favorite projects is [Stacks](https://rocococoding.github.io/stacks/), a library app using vanilla js with search, filter, sort and local save. I built it a month into learning JS. I came up with the name Rococo Code after making it because even back then I could tell it was a bit ... excessive, kind of like [rococo](https://en.wikipedia.org/wiki/Rococo) architecture, but I'm still proud of it because I think I did a lot with what little I knew back then. For example, I didn't know about the built-in filter method, so I wrote one myself.</p>
+<p>- Current pet project: My portfolio needs some fixing up before I'm comfortable showing it off to potential employers.</p>
 
-- 💬 Ask me about: Vanilla JS. If you're new to coding and have questions about basic JS, feel free to ping me. I don't know everything JS can do, but I have a solid understanding of how it works in general.
+- 💬 Ask me about: Stenography. I was a court reporter before I learned to code.
 
 - 📫 How to reach me: alicetchang // gmail
-
-- Past Projects: 
- [Stacks](https://rocococoding.github.io/stacks/): A library app using vanilla js with search, filter, sort and local save. Built a month or two into learning JS.
