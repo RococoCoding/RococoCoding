@@ -5,7 +5,7 @@ I'm Alice, a new developer who knows JS, React, Redux, Node, Express and basic P
 ### Hire Me!
 I'm reflective, so I'm always looking for lessons to learn and ways to improve so I can be better in the future.
 I love to help others and share knowledge. I've mentored other students while in school and always try my best to uplift my teammates.
-I'm a creative problem solver. Recently while integrating DocuSign into the Family Promise intake process [frontend](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a) [backend](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-be-a), we ran into an issue with DocuSign not accepting cross-origin requests. When we asked the techncial staff at school, we were told the solution, creating a custom CORS gateway, was going to be way above our capabilities. Rather than give up, we came up with a solution where we sent the redirect URL in the response from the backend and had the frontend load that URL. No more CORS issues!
+I'm a creative problem solver. Recently while integrating DocuSign into the Family Promise intake process [frontend repo](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a) | [backend repo](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-be-a), we ran into an issue with DocuSign not accepting cross-origin requests. When we asked the techncial staff at school, we were told the solution, creating a custom CORS gateway, was going to be way above our capabilities. Rather than give up, we came up with a solution where we sent the redirect URL in the response from the backend and had the frontend load that URL. No more CORS issues!
 
 ### Facts:
 - Pronouns: She/her
