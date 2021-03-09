@@ -13,8 +13,9 @@ I'm Alice, a new developer who knows JS, React, Redux, Node, Express and basic P
 - Location: Brooklyn, NY, but willing to relocate anywhere cold. (Bonus points if it's in Finland!)  
 - My favorite emoji: 😅  
 - The name: One of my favorite projects is [Stacks](https://rocococoding.github.io/stacks/), a library app using vanilla js with search, filter, sort and local save. I built it a month into learning JS. I came up with the name Rococo Code after making it because even back then I could tell it was a bit ... excessive, kind of like [rococo](https://en.wikipedia.org/wiki/Rococo) architecture, but I'm still proud of it because I think I did a lot with what little I knew back then. For example, I didn't know about the built-in filter method, so I wrote one myself.  
-- Current pet project: My portfolio needs some fixing up before I'm comfortable showing it off to potential employers.  
 
 - 💬 Ask me about: Stenography. I was a court reporter before I learned to code.  
+
+- Check out my [portfolio](https://rocococode.com/landing)!  
 
 - 📫 How to reach me: alicetchang // gmail  
