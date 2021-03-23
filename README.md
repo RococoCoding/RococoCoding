@@ -1,6 +1,6 @@
 # A little about me...
 ### Currently
-I'm Alice, a new developer who knows JS, React, Redux, Node, Express and basic Python. I've just graduated from Lambda School, a 6-month intensive coding bootcamp. I'm looking for fully remote roles as a full-stack web dev.
+I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python. I've just graduated from Lambda School, a 6-month intensive coding bootcamp. I'm looking for roles as a full-stack or backend web dev.
  
 ### Hire Me!
 - I'm reflective, so I'm always looking for lessons to learn and ways to improve so I can be better in the future.  
