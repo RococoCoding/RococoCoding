@@ -8,6 +8,7 @@ I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python.
 - I'm a creative problem solver. Recently while integrating a third-party API ([frontend repo](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a) | [backend repo](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-be-a)), we ran into a CORS issue because the API didn't accept cross-origin requests, which meant it didn't like that our frontend and backend were hosted on different domains. The proper solution would have been to create a custom CORS gateway, but that would have required a big change in how the app was structured. Rather than give up, we came up with a solution where we got the redirect URL from the API, sent it from the backend to the frontend and had the frontend load that URL in a separate function. No more CORS issues!
 
 ### Projects
+Below is a selection of projects I've done that demonstrate my progression as I've learned to code.
 #### Past
 1. [Stacks](https://github.com/RococoCoding/stacks) - Personal project - vanilla JS
 2. [Secret Family Recipes](https://github.com/RococoCoding/Secret-Family-Recipes) - School Project - React
