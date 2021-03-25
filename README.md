@@ -11,7 +11,7 @@ I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python.
 Below is a selection of projects I've done that demonstrate my progression as I've learned to code.
 #### Past
 1. [Stacks](https://github.com/RococoCoding/stacks) - Personal project - HTML, CSS, vanilla JS
-2. [School in the Cloud](https://github.com/RococoCoding/School-in-the-Clouds) - School Project - React
+2. [School in the Cloud](https://github.com/RococoCoding/School-in-the-Clouds) - School Project - React, Yup form validation
 3. [Anywhere Fitness](https://github.com/RococoCoding/Anywhere-Fitness) - School Project - React, Redux
 4. [Water My Plants](https://github.com/RococoCoding/Water-My-Plants) - School Project - Node, Express, Knex, SQLite3
 5. [Ace the Interview](https://github.com/RococoCoding/ace-it-frontend) - Personal Project - React, Python web scraper, Node, Express, SQLite3
