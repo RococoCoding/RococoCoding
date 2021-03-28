@@ -2,7 +2,7 @@
 ### Currently
 I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python. I've just graduated from Lambda School, a 6-month intensive coding bootcamp. I'm looking for roles as a full-stack or backend web dev. I decided to switch from court reporting to coding because I love solving problems and I want to make things that people can use.  
 
-I'm about to start two exciting experiences: I'll be working as a [Lambda Fellow](https://lambdaschool.com/lambda-fellows) for [Verb Energy](https://www.verbenergy.co/) and I'll be part of the first cohort of [Suborbital's Community Mentorship program](https://www.notion.so/Community-Mentorship-a3d95559079c4fe799c3d6ed07dbc662) learning and contributing to the open source community!
+I'm about to start two exciting experiences: I'll be working as a [Lambda Fellow](https://lambdaschool.com/lambda-fellows) for [Verb Energy](https://www.verbenergy.co/) and I'll be part of the first cohort of [Suborbital's Community Mentorship program](https://www.notion.so/Community-Mentorship-a3d95559079c4fe799c3d6ed07dbc662) learning from and contributing to the open source community!
  
 ### Hire Me!
 - I'm reflective, so I'm always looking for lessons to learn and ways to improve so I can be better in the future.  
