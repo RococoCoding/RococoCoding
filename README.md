@@ -1,6 +1,6 @@
 # A little about me...
 ### Currently
-I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python. I've just graduated from Lambda School, a 6-month intensive coding bootcamp. I'm looking for roles as a full-stack or backend web dev. I decided to switch from court reporting to coding because I love solving problems and I want to make things that people can use.  
+I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python. I decided to switch from court reporting to coding because I love solving problems and I want to make things that people can use. 
 
 I'm part of the first cohort of [Suborbital's Community Mentorship program](https://www.notion.so/Community-Mentorship-a3d95559079c4fe799c3d6ed07dbc662) learning from and contributing to the open source community!
  
