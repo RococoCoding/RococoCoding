@@ -2,13 +2,6 @@
 ### Currently
 I'm Alice, a new developer who knows JS, React, Redux, Node, Express and Python. I decided to switch from court reporting to coding because I love solving problems and I want to make things that people can use. 
 
-I'm part of the first cohort of [Suborbital's Community Mentorship program](https://www.notion.so/Community-Mentorship-a3d95559079c4fe799c3d6ed07dbc662) learning from and contributing to the open source community!
- 
-### Hire Me!
-- I'm reflective, so I'm always looking for lessons to learn and ways to improve so I can be better in the future.  
-- I love to help others and share knowledge. I've mentored other students while in school and always try my best to uplift my teammates.  
-- I'm a creative problem solver. Recently while integrating a third-party API ([frontend repo](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a) | [backend repo](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-be-a)), we ran into a CORS issue because the API didn't accept cross-origin requests, which meant it didn't like that our frontend and backend were hosted on different domains. The proper solution would have been to create a custom CORS gateway, but that would have required a big change in how the app was structured. Rather than give up, we came up with a solution where we got the redirect URL from the API, sent it from the backend to the frontend and had the frontend load that URL in a separate function. No more CORS issues!
-
 ### Projects
 Below is a selection of projects I've done that demonstrate my progression as I've learned to code.
 #### Past
