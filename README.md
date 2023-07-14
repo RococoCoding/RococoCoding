@@ -13,15 +13,15 @@ I believe strongly in teamwork, empathy and supporting the people around you. I'
 - 💬 Ask me about: Stenography. I was a court reporter before I learned to code.  
 
 ## Current Projects
-1. [Choose-Your-Own-Adventure Discord Bot](https://github.com/RococoCoding/CYOA-discord) - Just a quick project I did over a long weekend to get back into the swing of things. Discord API, Postgres, Railway
-2. Working through a QGIS course on Udemy - I'm curious about mapping and have a love of travel/urban planning/public transportation, so exploring a little.
+I started a [blog on Notion](https://wool-art-301.notion.site/Rococo-Coding-ab0dc5f213a24fab903002cae192374e?pvs=4) to talk about my current projects as I work on them.
 
-### School Projects
+### Past Projects
 Below is a selection of projects I've done that demonstrate my progression as I've learned to code.
-1. [Stacks](https://github.com/RococoCoding/stacks) - Personal project - HTML, CSS, vanilla JS
-2. [School in the Cloud](https://github.com/RococoCoding/School-in-the-Clouds) - School Project - React, Yup form validation, Material UI
-3. [Anywhere Fitness](https://github.com/RococoCoding/Anywhere-Fitness) - School Project - React, Redux
-4. [Water My Plants](https://github.com/RococoCoding/Water-My-Plants) - School Project - Node, Express, Knex, SQLite3
-5. [Ace the Interview](https://github.com/RococoCoding/ace-it-frontend) - Personal Project - React, Python web scraper, Node, Express, SQLite3
-6. [Family Promise intake](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a) - School Project - Third-party API integration, authentication
+8. [Choose-Your-Own-Adventure Discord Bot](https://github.com/RococoCoding/CYOA-discord) - Just a quick project I did over a long weekend to get back into the swing of things. Discord API, Postgres, Railway
 7. [Leopardy!](https://github.com/RococoCoding/leopardy) - Personal Project - React, Redux, Python web scraper, Node, Express, Postgres
+6. [Family Promise intake](https://github.com/RococoCoding/deprecated-labs31-family-promise-spokane-fe-a) - School Project - Third-party API integration, authentication
+5. [Ace the Interview](https://github.com/RococoCoding/ace-it-frontend) - Personal Project - React, Python web scraper, Node, Express, SQLite3
+4. [Water My Plants](https://github.com/RococoCoding/Water-My-Plants) - School Project - Node, Express, Knex, SQLite3
+3. [Anywhere Fitness](https://github.com/RococoCoding/Anywhere-Fitness) - School Project - React, Redux
+2. [School in the Cloud](https://github.com/RococoCoding/School-in-the-Clouds) - School Project - React, Yup form validation, Material UI
+1. [Stacks](https://github.com/RococoCoding/stacks) - Personal project - HTML, CSS, vanilla JS
