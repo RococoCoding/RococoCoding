@@ -12,6 +12,7 @@ I believe strongly in teamwork, empathy and supporting the people around you. I'
 - 💬 Ask me about: Stenography. I was a court reporter before I learned to code.  
 
 ## Current Projects
+[Dynamic Playlists](https://github.com/RococoCoding/dynamic-playlists) - A Spotify app to create dynamic playlists that autoupdate as you listen. React, Node, Express
 I started a [blog on Notion](https://wool-art-301.notion.site/Rococo-Coding-ab0dc5f213a24fab903002cae192374e?pvs=4) to talk about my current projects as I work on them.
 
 ### Recent Projects
