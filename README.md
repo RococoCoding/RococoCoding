@@ -13,7 +13,7 @@
 - Team player: I'm a supportive and empathetic teammate. I strongly relate to the idea that everyone has something to contribute, and I believe that teams are strongest when we use our strengths to cover each other's weaknesses. For example, at Verb, when one of my co-workers struggled with on-call, I stepped up to help out so he could focus on the things he was good at. By leaning into our strengths, the team performs better overall.
 
 ### What I'm looking for:
-- Healthy work culture: If you think the phrase "competitive grind" is a positive, you can leave now. I treat my teammates as allies, not competitors, and while I chose coding because I enjoy the work, I believe that you have to rest to be your best. I'm also looking for a workplace that is welcoming to all and cares about diversity.
+- Healthy work culture: If you think the phrase "competitive grind" is a positive, you can pass on me. I treat my teammates as allies, not competitors, and while I chose coding because I enjoy the work, I believe that you have to rest to be your best. I'm also looking for a workplace that is welcoming to all and cares about diversity.
   
 - Opportunity to learn: So far in my coding journey I've mostly been focused on learning _how_ to do things, but not _why_. Now that I've solidified my knowledge of Javascript and learned how to do things one way, I think my next phase of learning should focus on why. Why choose one language or framework another? Why is this tech like this? (What problem was it trying to solve?) That's why in my next role I'd like to learn new tech/new ways of doing things so I can get an expanded sense of the possibilities out there and be better able to answer Why?
  
