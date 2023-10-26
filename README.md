@@ -18,9 +18,9 @@
 - Opportunity to learn: So far in my coding journey I've mostly been focused on learning _how_ to do things, but not _why_. Now that I've solidified my knowledge of Javascript and learned how to do things one way, I think my next phase of learning should focus on why. Why choose one language or framework another? Why is this tech like this? (What problem was it trying to solve?) That's why in my next role I'd like to learn new tech/new ways of doing things so I can get an expanded sense of the possibilities out there and be better able to answer Why?
  
 ## Links
-[Portfolio](https://www.rocococode.com/)
-
-What I'm working on: [Dynamic Playlists](https://github.com/RococoCoding/dynamic-playlists) - A Spotify app to create dynamic playlists that autoupdate as you listen. React, Node, Express, Postgres
+[Portfolio](https://www.rocococode.com/)  
+[Notes on what I'm currently learning](https://rocococode.notion.site/ed6646a05c4d48a8b3a06d7e9ce803f0?v=8eeab59e6290447d9dba9e425a01530d&pvs=4) - DSA, Java  
+[Current Project - Dynamic Playlists](https://github.com/RococoCoding/dynamic-playlists) - A Spotify app to create dynamic playlists that autoupdate as you listen. React, Node, Express, Postgres
 
 
 
